@@ -1,3 +1,4 @@
 # hello-world
 My first project
-## Learnign new thing
+## Learning new thing
+I love Virat and Gambhir
